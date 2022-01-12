@@ -1,2 +1,16 @@
 # CPP-Modules
 Lots of basic stuff
+
+## C++ Project List
+
+|  Nº  | Project | Description | Topics | Date | Activity | Status |
+| :--: | :-----: | :---------: | :----: | :--: | :------: | :----: |
+| 1 | [cpp-m-00](https://github.com/madebypixel02/CPP-Module-00) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-00/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-00)](https://github.com/JaeSeoKim/badge42) |
+| 2 | [cpp-m-01](https://github.com/madebypixel02/CPP-Module-01) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-01/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-01)](https://github.com/JaeSeoKim/badge42) |
+| 3 | [cpp-m-02](https://github.com/madebypixel02/CPP-Module-02) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-02/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-02)](https://github.com/JaeSeoKim/badge42) |
+| 4 | [cpp-m-03](https://github.com/madebypixel02/CPP-Module-03) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-03/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-03)](https://github.com/JaeSeoKim/badge42) |
+| 5 | [cpp-m-04](https://github.com/madebypixel02/CPP-Module-04) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-04/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-04)](https://github.com/JaeSeoKim/badge42) |
+| 6 | [cpp-m-05](https://github.com/madebypixel02/CPP-Module-05) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-05/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-05)](https://github.com/JaeSeoKim/badge42) |
+| 7 | [cpp-m-06](https://github.com/madebypixel02/CPP-Module-06) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-06/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-06)](https://github.com/JaeSeoKim/badge42) |
+| 8 | [cpp-m-07](https://github.com/madebypixel02/CPP-Module-07) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-07/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-07)](https://github.com/JaeSeoKim/badge42) |
+| 9 | [cpp-m-08](https://github.com/madebypixel02/CPP-Module-08) | N/A | C++, Makefile | N/A | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-08/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-08)](https://github.com/JaeSeoKim/badge42) |
