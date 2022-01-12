@@ -3,7 +3,7 @@
 *Lots of basic stuff 🗒*
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/40824677/149223631-ea4efe1a-7673-4a68-b8fe-9f52aebe87a9.png />
+  <img src=https://user-images.githubusercontent.com/40824677/149224059-8a1fc9f2-31bc-4335-93b3-6017bf794668.png />
 </p>
 
 ## C++ Project List
