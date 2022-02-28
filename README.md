@@ -19,3 +19,9 @@
 | 7 | [cpp-06](https://github.com/madebypixel02/CPP-Module-06) | *Scalar conversion* | C++, Makefile, Conversion | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-06/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-06)](https://github.com/JaeSeoKim/badge42) |
 | 8 | [cpp-07](https://github.com/madebypixel02/CPP-Module-07) | *A few functions* | C++, Makefile, swap, min, max | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-07/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-07)](https://github.com/JaeSeoKim/badge42) |
 | 9 | [cpp-08](https://github.com/madebypixel02/CPP-Module-08) | *Easy find* | C++, Makefile, find, span, Abomination | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/CPP-Module-08/master) | [![aperez-b's 42Project Score](https://badge42.herokuapp.com/api/project/aperez-b/CPP-Module-08)](https://github.com/JaeSeoKim/badge42) |
+
+<p align="center">
+  <a href="https://github.com/madebypixel02/cub3d">&#11013;</a>
+  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">&#127968;</a>
+  <a href="https://github.com/madebypixel02/NetPractice">&#10145;</a>
+</p>
